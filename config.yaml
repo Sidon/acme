@@ -1,4 +1,4 @@
-baseURL: http://example.org/
+baseURL: https://sdn-acme.netlify.app
 languageCode: en-us 
 title: Acme Corporation 
 theme: Eclectic 
