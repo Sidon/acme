@@ -1,7 +1,7 @@
-baseURL: https://sdn-acme.netlify.app
+baseURL: https://sidon.github.io/acme/
 languageCode: en-us 
-title: Acme Corporation 
-theme: Eclectic 
+title: Learning Hugo, Acme Corporation 
+theme: Universal
 author: 
   facebook: "https://facebook.com/example" 
   twitter: "https://twitter.com/example" 
@@ -14,7 +14,7 @@ author:
 menu:
   main: 
     - identifier: about 
-      name: "About Me"
+      name: "About"
       url: /about 
       weight: 100 
     - identifier: contact 
